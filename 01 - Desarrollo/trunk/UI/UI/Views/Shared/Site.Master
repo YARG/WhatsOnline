@@ -12,12 +12,12 @@
 	<div class="page">
 		<header>
 			<div id="title">
-                <img src="../../Imagenes/LogoWhatsApp.png" width="6%" height="6%" /><h1>Whats Online</h1>
+                <img src="../../Imagenes/LogoWhatsApp.png" width="6%" height="6%" />&nbsp;<span class="tituloHeader" >Whats Online</span>
 			</div>
 			<%: Html.Telerik().Menu()
 					.Name("menu")
 					.Items(menu => {
-						menu.Add().Text("Inicio").Action("Index", "Home");
+                        menu.Add().Text("Inicio").Action("Home", "Index", new { id = "" });
 						menu.Add().Text("Acerca de WhatsOnline").Action("About", "Home");
 					})
 			%>
@@ -30,5 +30,6 @@
 	</div>
 <%: Html.Telerik().ScriptRegistrar().DefaultGroup(group => group.Combined(true).Compress(true)) %>
 <script src="../../Scripts/Bootstrap/js/bootstrap.js" language="javascript" type="text/javascript"></script>
+<script src="../../Scripts/Bootstrap/js/bootstrap-typeahead.js" language="javascript" type="text/javascript"></script>
 </body>
 </html>
