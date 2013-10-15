@@ -1,8 +1,0 @@
-C:\Users\Usuario\Documents\GitHub\WhatsOnline\01 - Desarrollo\trunk\UI\UI\bin\UI.dll
-C:\Users\Usuario\Documents\GitHub\WhatsOnline\01 - Desarrollo\trunk\UI\UI\bin\UI.pdb
-C:\Users\Usuario\Documents\GitHub\WhatsOnline\01 - Desarrollo\trunk\UI\UI\bin\Telerik.Web.Mvc.dll
-C:\Users\Usuario\Documents\GitHub\WhatsOnline\01 - Desarrollo\trunk\UI\UI\bin\Telerik.Web.Mvc.pdb
-C:\Users\Usuario\Documents\GitHub\WhatsOnline\01 - Desarrollo\trunk\UI\UI\bin\Telerik.Web.Mvc.xml
-C:\Users\Usuario\Documents\GitHub\WhatsOnline\01 - Desarrollo\trunk\UI\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
-C:\Users\Usuario\Documents\GitHub\WhatsOnline\01 - Desarrollo\trunk\UI\UI\obj\Debug\UI.dll
-C:\Users\Usuario\Documents\GitHub\WhatsOnline\01 - Desarrollo\trunk\UI\UI\obj\Debug\UI.pdb

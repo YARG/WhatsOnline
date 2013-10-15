@@ -1,7 +1,0 @@
-C:\Users\Usuario\Documents\GitHub\WhatsOnline\01 - Desarrollo\trunk\UI\UITests\bin\Debug\UITests.dll
-C:\Users\Usuario\Documents\GitHub\WhatsOnline\01 - Desarrollo\trunk\UI\UITests\bin\Debug\UITests.pdb
-C:\Users\Usuario\Documents\GitHub\WhatsOnline\01 - Desarrollo\trunk\UI\UITests\bin\Debug\UI.dll
-C:\Users\Usuario\Documents\GitHub\WhatsOnline\01 - Desarrollo\trunk\UI\UITests\bin\Debug\UI.pdb
-C:\Users\Usuario\Documents\GitHub\WhatsOnline\01 - Desarrollo\trunk\UI\UITests\obj\Debug\UITests.csprojResolveAssemblyReference.cache
-C:\Users\Usuario\Documents\GitHub\WhatsOnline\01 - Desarrollo\trunk\UI\UITests\obj\Debug\UITests.dll
-C:\Users\Usuario\Documents\GitHub\WhatsOnline\01 - Desarrollo\trunk\UI\UITests\obj\Debug\UITests.pdb
